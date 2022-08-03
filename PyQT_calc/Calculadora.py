@@ -76,3 +76,4 @@ if __name__ == '__main__':
     calculadora = Calculadora()
     calculadora.show()
     qt.exec_()
+#
